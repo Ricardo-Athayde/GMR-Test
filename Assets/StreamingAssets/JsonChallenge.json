@@ -5,8 +5,7 @@
     "ID",
     "Name",
     "Role",
-    "Nickname",
-"Age"
+    "Nickname"
   ],
   "Data" :
   [
@@ -15,35 +14,24 @@
         "Name" : "John Doe",
         "Role" : "Engineer",
         "Nickname" : "KillerJo",
-"Age": "27",
     },
     {
         "ID" : "023",
         "Name" : "Claire Dawn",
         "Role" : "Engineer",
         "Nickname" : "Claw",
-"Age": "42",
     },
     {
         "ID" : "012",
         "Name" : "Paul Beef",
         "Role" : "Designer",
         "Nickname" : "BeefyPaul",
-"Age": "20",
     },
     {
         "ID" : "056",
         "Name" : "Sally Sue",
         "Role" : "Artist",
         "Nickname" : "Sue5555",
-"Age": "35",
-    },
-    {
-        "ID" : "148",
-        "Name" : "Ricardo Athayde",
-        "Role" : "Developer",
-        "Nickname" : "Nyro",
-"Age": "27",
     },
   ]
 }

@@ -276,6 +276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c1c0a3d61aca1d44ba23245f55ecdf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  parser: 0
 --- !u!4 &410193596
 Transform:
   m_ObjectHideFlags: 0
@@ -489,7 +490,7 @@ MonoBehaviour:
   TextPrefab: {fileID: 6559479441342102949, guid: eb2c70e6daf7b0d4982499c4ebdd14ff,
     type: 3}
   title: {fileID: 1603279823}
-  textSize: 40
+  textSize: 30
   headerSizeMultiplyer: 1.8
   layout: {fileID: 353338263}
 --- !u!1 &1603279821
